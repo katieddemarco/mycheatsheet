@@ -1,0 +1,35 @@
+* {
+    margin: auto;
+    text-align: center;
+    
+}
+
+header {
+    font-weight: bold;
+    color: rgb(168, 110, 168);
+    padding-bottom: 50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h2 {
+    padding-bottom: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+table, th, td {
+    border: 2px dotted black;
+}
+
+th {
+    background-color: rgb(191, 151, 227);
+    
+}
+
+td {
+    background-color: rgb(228, 205, 239);
+    font-family: monospace;
+}
+
+body {
+    background-color:rgb(242, 230, 248)
+}
